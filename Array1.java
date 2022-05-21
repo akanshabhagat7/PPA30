@@ -12,7 +12,7 @@ class Array1
 		arr[1]=20;
 		arr[2]=30;
 		arr[3]=40;
-		arr[4]=50;
+		arr[4]=50; // new comment
 		
 		System.out.println("Size of array is : "+arr.length); // length is the property for array in java
 		//System.out.println("Elements of array are : "+arr);
